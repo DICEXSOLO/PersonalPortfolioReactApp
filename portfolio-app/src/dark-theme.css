@@ -1,0 +1,41 @@
+body {
+    background-color: #282828;
+    color: #d8d8d8;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #f0c674;
+}
+
+a {
+    color: #b294bb;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #81a2be;
+}
+
+.project-card {
+    background-color: #1d1f21;
+    color: #d8d8d8;
+}
+
+.project-card h2 {
+    color: #c5c8c6;
+}
+
+.project-card p {
+    color: #b4b7b4;
+}
+
+.project-card img {
+    filter: brightness(70%);
+}
